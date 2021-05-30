@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">سوق السيارات</string>
+    <string name="viewCar_model">الطراز :</string>
+    <string name="ViewCar_color">اللون :</string>
+    <string name="ViewCar_dpl">عدد اللترات لكل كيلومتر :</string>
+    <string name="ViewCar_description">وصف السياره :</string>
+    <string name="model">االطراز</string>
+    <string name="ViewCar_phoneNumber">رقم التليفون :</string>
+
+</resources>

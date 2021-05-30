@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarMarket</string>
+    <string name="viewCar_model">model :</string>
+    <string name="ViewCar_color">Color :</string>
+    <string name="ViewCar_dpl">Distance Per Letter :</string>
+    <string name="ViewCar_description">Description :</string>
+    <string name="model">Model</string>
+    <string name="ViewCar_phoneNumber">phone number :</string>
+</resources>
